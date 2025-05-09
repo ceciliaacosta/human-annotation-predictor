@@ -1,0 +1,10 @@
+wandb/
+test_data/
+models/
+dataset/
+ruff_cache/
+result_analysis/
+plots/
+.secrets.toml
+.settings_many.toml
+.settings_final.toml
